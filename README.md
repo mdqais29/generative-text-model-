@@ -25,7 +25,6 @@ This notebook demonstrates how modern large language models can be used for natu
 - Accept user prompts
 - Generate coherent paragraphs
 - Demonstrate transformer-based text generation
-- Showcase NLP inference using PyTorch
 
 ## Features
 - Text generation using GPT-2
