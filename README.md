@@ -1,4 +1,4 @@
-# generative-text-model
+# Generative Text Model
 
  *COMPANY*: CODTECH IT SOLUTIONS
  
@@ -63,3 +63,4 @@ Enter your prompt when asked.
 
 ## Output
 
+<img width="1698" height="877" alt="Image" src="https://github.com/user-attachments/assets/33969035-11a8-45f4-84ff-169aa99ddd8d" />
