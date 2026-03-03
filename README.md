@@ -43,7 +43,7 @@ This notebook demonstrates how modern large language models can be used for natu
 ## How to Run
 1️) Create Virtual Environment <br>
 python -m venv venv <br>
-venv\Scripts\activate 
+venv\Scripts\activate <br>
 <br>
 2️) Install Dependencies <br>
 pip install torch transformers notebook <br>
